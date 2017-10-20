@@ -5,6 +5,7 @@
   "main": "bamazonCustomer.js",
   "dependencies": {
     "inquire": "^0.4.8",
+    "inquirer": "^3.3.0",
     "mysql": "^2.15.0"
   },
   "devDependencies": {},
