@@ -10,7 +10,7 @@ Bamazon
 ###The app takes in orders from the customer and depletes stock from the store's inventory. It tracks product sales across the store's departments and then provides a summary of the current inventory for the customer.
 
 * MySQL Database
-![alt text](bamazon/images/Bamazon MySQL.png)
+![alt text](https://github.com/juliareed/bamazon/blob/master/images/Bamazon%20MySQL.png)
 
 * bamazonCustomer.js
 ![alt text](https://github.com/juliareed/bamazon/blob/master/images/bamazonCustomer.png)
