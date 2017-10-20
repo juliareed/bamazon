@@ -7,16 +7,16 @@ Bamazon
 
 ## Amazon storefront in your terminal
 
-###The app takes in orders from the customer and depletes stock from the store's inventory. It tracks product sales across the store's departments and then provides a summary of the current inventory for the customer.
+### The app takes in orders from the customer and depletes stock from the store's inventory. It tracks product sales across the store's departments and then provides a summary of the current inventory for the customer.
 
 * MySQL Database
-![alt text](https://github.com/juliareed/bamazon/blob/master/images/Bamazon%20MySQL.png)
+![alt tag](bamazon/images/Bamazon_MySQL.png)
 
 * bamazonCustomer.js
-![alt text](https://github.com/juliareed/bamazon/blob/master/images/bamazonCustomer.png)
+![alt tag](bamazon/images/bamazonCustomer.png)
 
 * bamazonManager.js part 1
-![alt text](https://github.com/juliareed/bamazon/blob/master/images/bamazonManager%20Current%20Inventory%20and%20Low%20Inventory%20Items.png)
+![alt tag](bamazon/images/bamazonManager_Current_Inventory_and_Low_Inventory_Items.png)
 
 * bamazonManager.js part 2
-![alt text](https://github.com/juliareed/bamazon/blob/master/images/bamazonManager%20Add%20Inventory%20and%20Add%20New%20Product.png)
+![alt tag](bamazon/images/bamazonManager_Add_Inventory_and_Add_New_Product.png)
